@@ -1,0 +1,12 @@
+# Local terraform directory (contains large binaries)
+.terraform/
+
+# State files (can contain secrets; best to keep local for now)
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+
+# Sensitive variables
+*.tfvars

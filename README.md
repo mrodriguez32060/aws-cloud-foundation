@@ -1,2 +1,5 @@
 # aws-cloud-foundation
-Execution of AWS Workshop - Cloud Hello World
+AWS Workshops:
+- Cloud Hello World
+- Terraform on AWS
+
